@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.75cda87faf2487485fbca785cb3b47c1.js"
+  "/precache-manifest.fd295711cba44076227f83ac881b7733.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "testquasar"});
